@@ -1,0 +1,6 @@
+IN
+STORE X
+OUT
+HALT
+
+VAR	X	0
